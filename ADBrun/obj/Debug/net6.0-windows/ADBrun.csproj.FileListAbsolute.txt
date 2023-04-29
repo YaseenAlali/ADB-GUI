@@ -1,0 +1,17 @@
+C:\Users\Yasin\source\repos\ADBrun\bin\Debug\net6.0-windows\ADBrun.exe
+C:\Users\Yasin\source\repos\ADBrun\bin\Debug\net6.0-windows\ADBrun.deps.json
+C:\Users\Yasin\source\repos\ADBrun\bin\Debug\net6.0-windows\ADBrun.runtimeconfig.json
+C:\Users\Yasin\source\repos\ADBrun\bin\Debug\net6.0-windows\ADBrun.dll
+C:\Users\Yasin\source\repos\ADBrun\bin\Debug\net6.0-windows\ADBrun.pdb
+C:\Users\Yasin\source\repos\ADBrun\obj\Debug\net6.0-windows\ADBrun.csproj.AssemblyReference.cache
+C:\Users\Yasin\source\repos\ADBrun\obj\Debug\net6.0-windows\ADBrun.Form1.resources
+C:\Users\Yasin\source\repos\ADBrun\obj\Debug\net6.0-windows\ADBrun.csproj.GenerateResource.cache
+C:\Users\Yasin\source\repos\ADBrun\obj\Debug\net6.0-windows\ADBrun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\source\repos\ADBrun\obj\Debug\net6.0-windows\ADBrun.AssemblyInfoInputs.cache
+C:\Users\Yasin\source\repos\ADBrun\obj\Debug\net6.0-windows\ADBrun.AssemblyInfo.cs
+C:\Users\Yasin\source\repos\ADBrun\obj\Debug\net6.0-windows\ADBrun.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\source\repos\ADBrun\obj\Debug\net6.0-windows\ADBrun.dll
+C:\Users\Yasin\source\repos\ADBrun\obj\Debug\net6.0-windows\refint\ADBrun.dll
+C:\Users\Yasin\source\repos\ADBrun\obj\Debug\net6.0-windows\ADBrun.pdb
+C:\Users\Yasin\source\repos\ADBrun\obj\Debug\net6.0-windows\ADBrun.genruntimeconfig.cache
+C:\Users\Yasin\source\repos\ADBrun\obj\Debug\net6.0-windows\ref\ADBrun.dll
